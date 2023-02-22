@@ -1,0 +1,75 @@
+body{
+    background-color: #6c4d6b;
+}
+
+.inicio{
+    text-align: center;
+    width: 75%;
+    padding: 10px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.presentacion{
+    color: #2e2c32;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bloque{
+    text-align: justify;
+    width: 75%;
+    padding: 10px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+h1{
+    color: gold;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    margin: 15px;
+}
+
+#especialidad{
+    text-decoration: underline;
+    color: #2e2c32;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 15px;
+}
+
+.img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.titulo{
+    color: gold;
+    font-size: 20px;
+}
+
+li{
+    text-align: left;
+    color: #2e2c32;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.relleno{
+    text-align: left;
+    color: #2e2c32;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.datos{
+    color: #2e2c32;
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
